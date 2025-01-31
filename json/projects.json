@@ -1,0 +1,77 @@
+[
+    {
+      "title": "QHSSE Application for PT Pelayaran Nasional Indonesia Persero",
+      "date": "Oct 2024 - Present",
+      "associated_with": "Techno Infinity"
+    },
+    {
+      "title": "Techno Web",
+      "date": "Aug 2024 - Present",
+      "associated_with": "Techno Infinity",
+      "skills": ["WordPress", "Social Media Integration", "Graphic Design"]
+    },
+    {
+      "title": "ERMS For Pancaran Group",
+      "date": "Oct 2024 - Oct 2024",
+      "associated_with": "Techno Infinity",
+      "description": "Governance, Risk, and Compliance (GRC) system to manage risks, comply with regulations, and achieve goals. Developed Risk Matrix, Risk Profile Dashboards, and Master Data pages.",
+      "skills": ["Laravel"]
+    },
+    {
+      "title": "Talentern, Student Internship Management Application",
+      "date": "Jun 2024 - Oct 2024",
+      "associated_with": "Techno Infinity",
+      "description": "Online platform for university students to search and apply for internships. Equipped with a student management system for efficient process and data management.",
+      "skills": ["Laravel 11", "Project Delivery", "Presentations", "Bootstrap", "jQuery", "AJAX", "Clean Coding"]
+    },
+    {
+      "title": "Cash Connected, Financial Administration For Enterprise",
+      "date": "Sep 2023 - Jul 2024",
+      "associated_with": "Techno Infinity",
+      "description": "Application for managing financial documents and facilitating various financial recording processes.",
+      "skills": ["Multi-Tenant Database", "Laravel 11", "JavaScript", "AJAX", "Dashboards"]
+    },
+    {
+      "title": "TIMOR GAP, E.P Geo Information System",
+      "date": "May 2024 - Jun 2024",
+      "associated_with": "Techno Infinity",
+      "description": "Integrated Geoinformation Platform for accurate and real-time exploration, analysis, and management of Timor Gap data.",
+      "skills": ["Python", "JSON", "Laravel"]
+    },
+    {
+      "title": "Examroom, Employee Assessment App",
+      "date": "Jan 2024 - Jan 2024",
+      "associated_with": "Techno Infinity",
+      "description": "Employee assessment application to manage performance appraisals efficiently. Features include question preparation, validation by SME, and real-time reporting.",
+      "skills": ["Laravel", "Bootstrap", "jQuery", "Front-End Development"]
+    },
+    {
+      "title": "Workspace, Human Resource Information System (HRIS)",
+      "date": "Aug 2022 - Aug 2023",
+      "associated_with": "Techno Infinity",
+      "description": "Streamlines employee administrative processes and improves data accuracy for HR teams.",
+      "skills": ["Laravel", "JavaScript", "jQuery", "Bootstrap", "User Authentication", "DataTables"]
+    },
+    {
+      "title": "Harmonie Integrated Management System",
+      "date": "May 2023 - May 2023",
+      "associated_with": "Techno Infinity",
+      "description": "Assisted in i18n integration for label customization.",
+      "skills": ["I18n", "Laravel", "JavaScript"]
+    },
+    {
+      "title": "Documine, Document Management System (DMS)",
+      "date": "Aug 2022 - Dec 2022",
+      "associated_with": "Techno Infinity",
+      "description": "System for managing important company documents, allowing concise and fast recording, numbering, and approval processes.",
+      "skills": ["Codeigniter 3", "JavaScript", "CSS", "MySQL", "User Authentication"]
+    },
+    {
+      "title": "Enterprise Risk Management System for PT Asuransi Jasa Indonesia",
+      "date": "Nov 2022 - Nov 2022",
+      "associated_with": "Techno Infinity",
+      "description": "Governance, Risk, and Compliance (GRC) system to manage risks, comply with regulations, and achieve goals. Developed Compliance Worksheet and related Master Data Pages.",
+      "skills": ["Laravel 8", "MySQL", "Bootstrap", "jQuery", "AJAX"]
+    }
+  ]
+  
