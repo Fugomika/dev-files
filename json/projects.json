@@ -8,35 +8,154 @@
       "title": "Techno Web",
       "date": "Aug 2024 - Present",
       "associated_with": "Techno Infinity",
-      "skills": ["WordPress", "Social Media Integration", "Graphic Design"]
+      "skills": ["WordPress", "Social Media Integration", "Graphic Design"],
+      "images": [
+            {
+                "title" : "Homepage",
+                "file" : "website-techno/homepage.png",
+                "link" : "https://technoinfinity.co.id/"
+            },
+            {
+                "title" : "Dari Programmer ke Problem Solver: Mengubah Pola Pikir",
+                "file" : "website-techno/articles.png",
+                "link" : "https://technoinfinity.co.id/dari-programmer-ke-problem-solver/",
+                "description" : "Written article by Me"
+            },
+            {
+                "title" : "Meet Techno Infinity Team",
+                "file" : "website-techno/meet-techno-infinity-team.png",
+                "link" : "https://technoinfinity.co.id/meet-techno-infinity-team/"
+            },
+            {
+                "title" : "Link Techno Infinity",
+                "file" : "website-techno/link-techno-infinity.png",
+                "link" : "https://technoinfinity.co.id/link/",
+                "description" : "Hyperlink page for social media"
+            }
+        ]
     },
     {
       "title": "ERMS For Pancaran Group",
       "date": "Oct 2024 - Oct 2024",
       "associated_with": "Techno Infinity",
       "description": "Governance, Risk, and Compliance (GRC) system to manage risks, comply with regulations, and achieve goals. Developed Risk Matrix, Risk Profile Dashboards, and Master Data pages.",
-      "skills": ["Laravel"]
+      "skills": ["Laravel"],
+      "images": [
+            {
+                "title" : "Dashboard",
+                "file" : "pancaran/dashboard.jpg"
+            },
+            {
+                "title" : "Risk Matrix",
+                "file" : "pancaran/risk-matrix.jpg"
+            }
+        ]
     },
     {
       "title": "Talentern, Student Internship Management Application",
       "date": "Jun 2024 - Oct 2024",
       "associated_with": "Techno Infinity",
       "description": "Online platform for university students to search and apply for internships. Equipped with a student management system for efficient process and data management.",
-      "skills": ["Laravel 11", "Project Delivery", "Presentations", "Bootstrap", "jQuery", "AJAX", "Clean Coding"]
+      "skills": ["Laravel 11", "Project Delivery", "Presentations", "Bootstrap", "jQuery", "AJAX", "Clean Coding"],
+      "images": [
+            {
+                "title" : "Talentern",
+                "file" : "talentern/talentern.png",
+                "link" : "https://talentern.telkomuniversity.ac.id/"
+            },
+            
+            {
+                "title" : "Corporate Partners",
+                "file" : "talentern/corporate-partners.png"
+            },
+            {
+                "title" : "Internship Management",
+                "file" : "talentern/internship-management.png"
+            },
+            {
+                "title" : "Admin Dashboard",
+                "file" : "talentern/admin-dashboard.png"
+            },
+            {
+                "title" : "Internship Selection",
+                "file" : "talentern/internship-selection.png"
+            },
+            {
+                "title" : "Intern Logbook System",
+                "file" : "talentern/intern-logbook-system.png"
+            }
+        ]
     },
     {
       "title": "Cash Connected, Financial Administration For Enterprise",
       "date": "Sep 2023 - Jul 2024",
       "associated_with": "Techno Infinity",
       "description": "Application for managing financial documents and facilitating various financial recording processes.",
-      "skills": ["Multi-Tenant Database", "Laravel 11", "JavaScript", "AJAX", "Dashboards"]
+      "skills": ["Multi-Tenant Database", "Laravel 11", "JavaScript", "AJAX", "Dashboards"],
+      "images": [
+            {
+                "title" : "Login Page",
+                "file" : "cash-connected/login.png"
+            },
+            {
+                "title" : "Application",
+                "file" : "cash-connected/application.png"
+            },
+            {
+                "title" : "Dashboard",
+                "file" : "cash-connected/dashboard.png"
+            },
+            {
+                "title" : "Dummy Bank Voucher Page",
+                "file" : "cash-connected/dummy-bank-voucher-page.png"
+            },
+            {
+                "title" : "Dummy Bank Voucher Approval",
+                "file" : "cash-connected/dummy-bank-voucher-approval.png"
+            },
+            {
+                "title" : "Dummy Bank Voucher Approval History",
+                "file" : "cash-connected/dummy-bank-voucher-approval-history.png"
+            },
+            {
+                "title" : "RAB Flow",
+                "file" : "cash-connected/rab-flow.png"
+            },
+            {
+                "title" : "RAB History",
+                "file" : "cash-connected/rab-history.png"
+            },
+            {
+                "title" : "Document Numbering",
+                "file" : "cash-connected/document-numbering.png"
+            }
+        ]
+
     },
     {
       "title": "TIMOR GAP, E.P Geo Information System",
       "date": "May 2024 - Jun 2024",
       "associated_with": "Techno Infinity",
       "description": "Integrated Geoinformation Platform for accurate and real-time exploration, analysis, and management of Timor Gap data.",
-      "skills": ["Python", "JSON", "Laravel"]
+      "skills": ["Python", "JSON", "Laravel"],
+      "images": [
+            {
+                "title" : "Landing Page",
+                "file" : "timorgap/landing-page.png"
+            },
+            {
+                "title" : "Timor Basemap",
+                "file" : "timorgap/basemap.png"
+            },
+            {
+                "title" : "Dashboard",
+                "file" : "timorgap/dashboard.png"
+            },
+            {
+                "title" : "Login Page",
+                "file" : "timorgap/login.png"
+            }
+        ]
     },
     {
       "title": "Examroom, Employee Assessment App",
