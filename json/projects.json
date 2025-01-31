@@ -50,28 +50,67 @@
       "date": "Aug 2022 - Aug 2023",
       "associated_with": "Techno Infinity",
       "description": "Streamlines employee administrative processes and improves data accuracy for HR teams.",
-      "skills": ["Laravel", "JavaScript", "jQuery", "Bootstrap", "User Authentication", "DataTables"]
+      "skills": ["Laravel", "JavaScript", "jQuery", "Bootstrap", "User Authentication", "DataTables"],
+      "images": [
+            {
+                "title" : "Aplikasi HR Satu Pintu - Workspace",
+                "file" : "workspace/workspace.png",
+                "link" : "https://technoinfinity.co.id/workspace-aplikasi-hr/"
+            }
+        ]
     },
     {
       "title": "Harmonie Integrated Management System",
       "date": "May 2023 - May 2023",
       "associated_with": "Techno Infinity",
       "description": "Assisted in i18n integration for label customization.",
-      "skills": ["I18n", "Laravel", "JavaScript"]
+      "skills": ["I18n", "Laravel", "JavaScript"],
+      "images": [
+            {
+                "title" : "Homepage - Harmonie",
+                "file" : "harmonie/harmonie.png",
+                "link" : "https://harmonie.id/"
+            }
+        ]
     },
     {
       "title": "Documine, Document Management System (DMS)",
       "date": "Aug 2022 - Dec 2022",
       "associated_with": "Techno Infinity",
       "description": "System for managing important company documents, allowing concise and fast recording, numbering, and approval processes.",
-      "skills": ["Codeigniter 3", "JavaScript", "CSS", "MySQL", "User Authentication"]
+      "skills": ["Codeigniter 3", "JavaScript", "CSS", "MySQL", "User Authentication"],
+      "images": [
+            {
+                "title" : "Documine",
+                "file" : "documine/documine.jpeg"
+            },
+            {
+                "title" : "Approval",
+                "file" : "documine/approval.jpeg"
+            },
+            {
+                "title" : "Dashboard",
+                "file" : "documine/dashboard.jpeg"
+            },
+            {
+                "title" : "Print",
+                "file" : "documine/print.jpeg"
+            }
+        ]
     },
     {
       "title": "Enterprise Risk Management System for PT Asuransi Jasa Indonesia",
       "date": "Nov 2022 - Nov 2022",
       "associated_with": "Techno Infinity",
       "description": "Governance, Risk, and Compliance (GRC) system to manage risks, comply with regulations, and achieve goals. Developed Compliance Worksheet and related Master Data Pages.",
-      "skills": ["Laravel 8", "MySQL", "Bootstrap", "jQuery", "AJAX"]
+      "skills": ["Laravel 8", "MySQL", "Bootstrap", "jQuery", "AJAX"],
+      "images": [
+            {
+                "title" : "Aplikasi GRC Terintegrasi dengan Safegard - Techno Infinity",
+                "file" : "safegard/safegard.png",
+                "link" : "https://technoinfinity.co.id/aplikasi-grc-terintegrasi-safegard/"
+            }
+        ]
     }
   ]
   
