@@ -43,8 +43,39 @@
       "date": "Jan 2024 - Jan 2024",
       "associated_with": "Techno Infinity",
       "description": "Employee assessment application to manage performance appraisals efficiently. Features include question preparation, validation by SME, and real-time reporting.",
-      "skills": ["Laravel", "Bootstrap", "jQuery", "Front-End Development"]
+      "skills": ["Laravel", "Bootstrap", "jQuery", "Front-End Development"],
+      "images": [
+            {
+                "title" : "Exam Management",
+                "file" : "examroom/exam-management.png"
+            },
+            {
+                "title" : "Course Selection",
+                "file" : "examroom/course-selection.png"
+            },
+            {
+                "title" : "Exam Selection",
+                "file" : "examroom/exam-selection.png"
+            },
+            {
+                "title" : "Running Exam",
+                "file" : "examroom/running-exam.png"
+            },
+            {
+                "title" : "Exam Instructions",
+                "file" : "examroom/exam-instruction.png"
+            },
+            {
+                "title" : "Exam Validation by SME",
+                "file" : "examroom/sme-validate.png"
+            }
+        ]
     },
+
+
+
+
+
     {
       "title": "Workspace, Human Resource Information System (HRIS)",
       "date": "Aug 2022 - Aug 2023",
