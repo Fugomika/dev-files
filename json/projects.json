@@ -190,11 +190,6 @@
             }
         ]
     },
-
-
-
-
-
     {
       "title": "Workspace, Human Resource Information System (HRIS)",
       "date": "Aug 2022 - Aug 2023",
@@ -232,19 +227,23 @@
       "images": [
             {
                 "title" : "Documine",
-                "file" : "documine/documine.jpeg"
+                "file" : "documine/documine.png"
             },
             {
                 "title" : "Approval",
-                "file" : "documine/approval.jpeg"
+                "file" : "documine/approval.png"
             },
             {
                 "title" : "Dashboard",
-                "file" : "documine/dashboard.jpeg"
+                "file" : "documine/dashboard.png"
             },
             {
                 "title" : "Print",
-                "file" : "documine/print.jpeg"
+                "file" : "documine/print.png"
+            },
+            {
+                "title" : "RAB Version History",
+                "file" : "documine/rab-history.png"
             }
         ]
     },
