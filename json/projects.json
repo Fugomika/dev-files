@@ -35,6 +35,18 @@
         ]
     },
     {
+      "title": "Desa Kedisan",
+      "date": "Nov 2024 - Dec 2024",
+      "description": "Website for a college project, created to provide announcements and promote tourism for Kedisan Village, located in Kintamani, Bali.",
+      "skills": ["Codeigniter 4", "Bootstrap", "jQuery", "AJAX", "MySQL"]
+    },
+    {
+      "title": "DesaMart",
+      "date": "Nov 2024 - Dec 2024",
+      "description": "Website for a college project, designed to facilitate local transactions of goods within a village.",
+      "skills": ["Codeigniter 4", "Bootstrap", "jQuery", "AJAX", "MySQL"]
+    },
+    {
       "title": "ERMS For Pancaran Group",
       "date": "Oct 2024 - Oct 2024",
       "associated_with": "Techno Infinity",

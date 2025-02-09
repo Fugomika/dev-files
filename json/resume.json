@@ -1,0 +1,55 @@
+{
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Techno Infinity",
+      "type": "Contract",
+      "location": "Bandung, West Java, Indonesia",
+      "start_date": "2023-05-01",
+      "end_date": "Present",
+      "description": [
+        "Developed both front-end and back-end components of various websites using Laravel Best Practices to ensure code maintainability and efficiency.",
+        "Designed user-friendly interfaces and ensured responsive layouts.",
+        "Implemented UI/UX principles to enhance user experiences.",
+        "Designed and developed APIs to streamline application integration.",
+        "Created a boilerplate for upcoming projects, complete with detailed documentation such as ADRs and usage guidelines.",
+        "Showcased projects to clients, presenting features and progress effectively.",
+        "Ensured the implementation of efficient algorithms to optimize application performance.",
+        "Contributed to the development of 9 applications, collaborating effectively with the team."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Techno Infinity",
+      "type": "Internship",
+      "location": "Bandung, West Java, Indonesia",
+      "start_date": "2022-08-01",
+      "end_date": "2022-12-01",
+      "description": [
+        "Focused on understanding the lifecycle and management of software projects.",
+        "Observed and participated in project planning and execution phases."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "SMK WIKRAMA BOGOR",
+      "degree": "Computer Software Engineering",
+      "activities": [
+        "Student Council, Head of IT Division",
+        "Actively involved in various organizations and events as both coordinator and executor",
+        "Active participant in competitions and seminars, enhancing skills and knowledge"
+      ],
+      "achievements": [
+        "Software Engineering Best Graduate (2024)",
+        "Graduated top of my class in Software Engineering, recognized for outstanding academic performance and practical expertise, proven through successful internship programs that accelerated my entry into the industry.",
+        "Highest TOEIC Score (2022) - Achieved the highest TOEIC score at SMK Wikrama, demonstrating proficiency in English communication skills.",
+        "Second Rank - Bebras Computational Thinking Challenge (City Level, 2023) - Ranked 2nd in the Bebras Computational Thinking Challenge at the city level, showcasing strong problem-solving and logical reasoning abilities." 
+    ]
+    },
+    {
+      "school": "Telkom University",
+      "degree": "Bachelor of Science - BS, Computer Science"
+    } 
+  ]
+}

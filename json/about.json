@@ -1,0 +1,20 @@
+{
+    "description": "Hey there! 🔥\\nI'm a passionate developer who loves experimenting and studying. Currently, I'm working as a Fullstack Website Developer, always improving my skills and applying them iteratively. Let's make the world a better place, one line of code at a time!",
+    "links": [
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com/in/fugomika/"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/Fugomika"
+        },
+        {
+            "name": "Instagram",
+            "icon": "instagram",
+            "url": "https://www.instagram.com/fugomika/"
+        }
+    ]
+}
