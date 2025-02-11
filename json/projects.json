@@ -37,14 +37,54 @@
     {
       "title": "Desa Kedisan",
       "date": "Nov 2024 - Dec 2024",
-      "description": "Website for a college project, created to provide announcements and promote tourism for Kedisan Village, located in Kintamani, Bali.",
-      "skills": ["Codeigniter 4", "Bootstrap", "jQuery", "AJAX", "MySQL"]
+      "description": "Website for a college project, created to provide announcements and promote tourism for Kedisan Village, Kintamani, Bali.",
+      "skills": ["Codeigniter 4", "Bootstrap", "jQuery", "AJAX", "MySQL"],
+        "images": [
+                {
+                    "title" : "Landing Page",
+                    "file" : "desa-kedisan-info/landing.png"
+                },
+                {
+                    "title" : "Profil",
+                    "file" : "desa-kedisan-info/profil.png"
+                },
+                {
+                    "title" : "Explore",
+                    "file" : "desa-kedisan-info/explore.png"
+                },
+                {
+                    "title" : "Dashboard Admin",
+                    "file" : "desa-kedisan-info/dashboard-admin.png"
+                },
+                {
+                    "title" : "Pengumuman Admin",
+                    "file" : "desa-kedisan-info/pengumuman-admin.png"
+                }
+            ]
     },
     {
       "title": "DesaMart",
       "date": "Nov 2024 - Dec 2024",
       "description": "Website for a college project, designed to facilitate local transactions of goods within a village.",
-      "skills": ["Codeigniter 4", "Bootstrap", "jQuery", "AJAX", "MySQL"]
+      "skills": ["Codeigniter 4", "Bootstrap", "jQuery", "AJAX", "MySQL"],
+        "images": [
+                {
+                    "title" : "Landing Page",
+                    "file" : "desa-mart/landing.png"
+                },
+                {
+                    "title" : "Catalogue",
+                    "file" : "desa-mart/catalogue.png"
+                },
+                {
+                    "title" : "Dashboard Admin",
+                    "file" : "desa-mart/dashboard-admin.png"
+                },
+                {
+                    "title" : "Dashboard User",
+                    "file" : "desa-mart/dashboard-user.png"
+                }
+            ]
     },
     {
       "title": "ERMS For Pancaran Group",
