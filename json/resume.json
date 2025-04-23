@@ -1,12 +1,28 @@
 {
   "experience": [
     {
+      "title": "Information Technology Programmer",
+      "company": "GEOSAT - PT Geomatika Satelit Indonesia",
+      "type": "Contract",
+      "location": "Kemayoran, Jakarta, Indonesia",
+      "start_date": "2025-03-03",
+      "end_date": "Present",
+      "description": [
+          "Designed and maintained Python-based data processing scripts for satellite inputs used in the Ship AIS tracking system.",
+          "Developed intuitive and responsive frontend interfaces using Vue.js for real-time maritime monitoring.",
+          "Built and maintained robust RESTful APIs using Laravel to support backend operations of the tracking platform.",
+          "Collaborated with cross-functional teams to gather requirements and translate them into scalable software solutions.",
+          "Applied industry best practices in software development, including clean code principles and modular design.",
+          "Initiated and implemented a Scrum Board to streamline the development workflow and improve team productivity."
+      ]
+    },
+    {
       "title": "Software Engineer",
       "company": "Techno Infinity",
       "type": "Contract",
       "location": "Bandung, West Java, Indonesia",
       "start_date": "2023-05-01",
-      "end_date": "Present",
+      "end_date": "2025-02-28",
       "description": [
         "Developed both front-end and back-end components of various websites using Laravel Best Practices to ensure code maintainability and efficiency.",
         "Designed user-friendly interfaces and ensured responsive layouts.",
