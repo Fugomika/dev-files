@@ -1,13 +1,22 @@
 [
     {
-      "title": "QHSSE Application for PT Pelayaran Nasional Indonesia Persero",
-      "date": "Oct 2024 - Present",
-      "associated_with": "Techno Infinity"
+      "title": "Geotraking, Real-time Vessel Monitoring System",
+      "date": "Mar 2025 - Present",
+      "associated_with": "Geosat Indonesia",
+      "skills" : ["Vue.js", "Laravel", "Python", "RESTful API"],
+      "description": "Geotraking is a satellite-based vessel tracking app that provides real-time monitoring, journey history, and an interactive map for maritime efficiency and security."
+    },
+    {
+      "title": "Pelni QHSSE Application, for PT Pelayaran Nasional Indonesia Persero",
+      "date": "Oct 2024 - Feb 2025",
+      "associated_with": "Techno Infinity",
+      "skills" : ["Laravel 11", "Boilerplate", "Bootstrap", "jQuery", "AJAX", "Clean Coding"],
+      "description": "A web application designed to manage and monitor Quality, Health, Safety, Security, and Environment (QHSSE) aspects within the company."
     },
     {
       "title": "Techno Web",
-      "date": "Aug 2024 - Present",
-      "associated_with": "Techno Infinity",
+      "date": "Aug 2024 - Feb 2025",
+      "description": "Techno Infinity",
       "skills": ["WordPress", "Social Media Integration", "Graphic Design"],
       "images": [
             {
@@ -104,7 +113,7 @@
         ]
     },
     {
-      "title": "Talentern, Student Internship Management Application",
+      "title": "Talentern, Internship Management System for School of applied science telkom university",
       "date": "Jun 2024 - Oct 2024",
       "associated_with": "Techno Infinity",
       "description": "Online platform for university students to search and apply for internships. Equipped with a student management system for efficient process and data management.",
@@ -139,7 +148,7 @@
         ]
     },
     {
-      "title": "Cash Connected, Financial Administration For Enterprise",
+      "title": "Cash Connected, Financial Administration For Proxsis Consulting Group and Enterprises",
       "date": "Sep 2023 - Jul 2024",
       "associated_with": "Techno Infinity",
       "description": "Application for managing financial documents and facilitating various financial recording processes.",
@@ -185,10 +194,10 @@
 
     },
     {
-      "title": "TIMOR GAP, E.P Geo Information System",
+      "title": "TIGOR APP, Geo Information System Prototype for Timor Gap E.P.",
       "date": "May 2024 - Jun 2024",
       "associated_with": "Techno Infinity",
-      "description": "Integrated Geoinformation Platform for accurate and real-time exploration, analysis, and management of Timor Gap data.",
+      "description": "A prototype web application for Timor Gap, a state-owned enterprise in Timor Leste. The application provides a geospatial information system to manage and visualize data related to the oil and gas industry.",
       "skills": ["Python", "JSON", "Laravel"],
       "images": [
             {
